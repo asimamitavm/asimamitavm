@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asimamitavm
-- 👀 I’m interested in python programming and ML and deepL.
-- 🌱 I’m currently learning django and rest APIs.
+- 👀 I’m interested in python programming and ML/deepL.
+- 🌱 I’m currently working on rest APIs.
 - 💞️ I’m looking to collaborate on building rest APIs and new deep learning projects.
 - 📫 How to reach me 
 
